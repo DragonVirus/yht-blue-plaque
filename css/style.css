@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Oswald:wght@300&display=swap');
+
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: 'Jost', sans-serif;
   overflow: hidden;
 }
 
@@ -55,6 +57,7 @@ body {
   visibility: hidden;
   font-weight: bold;
   text-align: center;
+  font-family: 'Oswald', sans-serif;
 }
 
 h3 {
@@ -104,6 +107,7 @@ h3 {
   text-align: center;
   font-size: 1.2em;
   padding: 0 5px;
+  font-family: 'Oswald', sans-serif;
 }
 
 .source {
@@ -116,6 +120,7 @@ h3 {
   text-align: left;
   font-size: 11pt;
   padding: 20px;
+  line-height: 1.8;
 }
 
 .in-focus {
